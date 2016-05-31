@@ -1,0 +1,16 @@
+body {
+  width: inherit;
+  height: inherit; }
+  body #status {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    color: darkorange; }
+  body #graph {
+    position: absolute;
+    left: calc((100% - 200px)/2);
+    top: 30px;
+    border: 1px solid #000; }
+
+/*# sourceMappingURL=main.css.map */
