@@ -3,9 +3,9 @@ var app = express();
 
 var CONFIG = {
 	POINTS: {
-		QTY: 200,					// number of points
+		QTY: 100,					// number of points
 		MIN: -100,					// minimum value of a point
-		MAX: 200,					// maximum value of a point
+		MAX: 100,					// maximum value of a point
 		UPDATE_INTERVAL: 20			// interval between points update (ms)
 	}
 };
